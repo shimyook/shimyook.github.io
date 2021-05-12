@@ -29,7 +29,9 @@ Skills
 
 Awards
 ======
-* Currently signed in to 43 different slack teams
+* NCAR Core Hour Grant (2.35 million core-hours), 2019-present
+* 2020 AMS Student Travel Grants (partial), 2020                                             
+* CSU CIRA Programs of Research and Scholarly Excellence (PRSE) Award, 2019
 
 Publications
 ======
