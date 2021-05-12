@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work at the Colordao State University. My research focuses on climate variability using observational analyses and model hierarchies, e.g., ocean-atmosphere interaction, chemistry-climate interactions, radiation-dynamics interactions, and barotropic/baroclininc annular modes.
+I am Ph.D. student in the Department of Atmospheric Science at Colorado State University. My research focuses on climate variability using observational analyses and model hierarchies, e.g., ocean-atmosphere interaction, chemistry-climate interactions, radiation-dynamics interactions, and barotropic/baroclininc annular modes.
 
 For more details on my work see my publications.
 
