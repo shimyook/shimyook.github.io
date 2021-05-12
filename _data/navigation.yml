@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://shimyook.github.io/publications/
+    url: /publications/
 
   - title: "Presentations"
     url: /talks/    
