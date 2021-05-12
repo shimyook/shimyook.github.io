@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Atmospheric Science, Colorado State University, 2018-
+* M.S. in Earth and Environmental Sciences (atmospheric science), Seoul National University, 2018
+* B.S. in Earth and Environmental Sciences with minor in Physics, Seoul National University, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-2014: Sergeant
+  * Republic of Korea Air Force
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analysing large datasets in various programming languages (Python, Fortran, NCL etc.)
+* Running various configurations of NCAR CESM
+  * RCE/Aquaplanet
+  * AMIP/Slab-Ocean
+
+Awards
+======
+* Currently signed in to 43 different slack teams
 
 Publications
 ======
@@ -42,18 +37,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+See Presentations tab.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+See Teaching tab.
+ 
