@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### ATS601 Atmospheric Dynamics I
+### <span style="color:blue">ATS601 Atmospheric Dynamics I</span>.
 * Fall 2019, Department of Atmospheric Science, Colorado State University, US
 
 ### Middle Atmosphere
