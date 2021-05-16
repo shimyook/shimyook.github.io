@@ -3,12 +3,11 @@ permalink: /presentations/
 title: "Presentations"
 author_profile: true
 ---
-
-## 2021
 ### Planned
 * [oral] International workshop for mid-latitude air-sea interaction
 * NCAR CESM WORKSHOP
 
+## 2021
 
 ## 2020
 * [poster] Amplified Temperature Variability in the Tropical Tropopause Layer Driven by Dynamically Induced Ozone Variation in CESM-WACCMS Yook, DWJ Thompson, S Solomon
