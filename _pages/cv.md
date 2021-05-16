@@ -25,6 +25,7 @@ Skills
 * Running various configurations of NCAR CESM
   * RCE/Aquaplanet
   * AMIP/Slab-Ocean
+  * varying SSTs / orography / aerosols boundary conditions and etc.
 
 Awards
 ======
