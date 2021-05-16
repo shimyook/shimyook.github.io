@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric Science, Colorado State University, 2018-
+* Ph.D in Atmospheric Science, Colorado State University, 2018-present
 * M.S. in Earth and Environmental Sciences, Seoul National University, 2018
 * B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2016
 
