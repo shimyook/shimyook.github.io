@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
 ### <span style="color:blue">ATS601 Atmospheric Dynamics I</span>.
