@@ -3,11 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Publications_SIMPLE"
-    url: /publications_simple/
-
   - title: "Presentations"
-    url: /talks/    
+    url: /Presentations/
 
   - title: "Teaching"
     url: /teaching/    
