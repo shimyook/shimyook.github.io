@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2012.07-2014.07: Served and discharged from Republic of Korea Air Force as Sergeant
+* 2012.07-2014.07: Served and discharged from Republic of Korea Air Force, Sergeant
   
 Skills
 ======
