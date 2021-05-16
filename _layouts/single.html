@@ -49,6 +49,10 @@ layout: default
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
     
+          {% if page.papertitle and page.paperurl %}
+          <p>{{ page.papertitle }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+        {% endif %}
+          
         </header>
       {% endunless %}
 
