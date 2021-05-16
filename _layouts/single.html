@@ -50,7 +50,10 @@ layout: default
         {% endif %}
     
           {% if page.papertitle and page.paperurl %}
-          <p>{{ page.papertitle }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p>{{ page.papertitle }} </p>
+        {% endif %}
+          {% if page.papertitle and page.paperurl %}
+          <p>[pdf] <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% endif %}
           
         </header>
