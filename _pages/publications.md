@@ -1,16 +1,14 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## In review / submitted
 
-{% include base_path %}
+* Yook, S., D. W. J. Thompson, L. Sun, and C. R. Patrizio, 2021: The atmospheric response to western North Pacific sea-surface temperature anomalies. J. Climate, in review.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+## 2020
+"Yook, S., D. W. J. Thompson, S. Solomon, and S.-Y. Kim, 2020: The key role of coupled chemistry-climate interactions in tropical stratospheric temperature variability. J. Climate, 33, 7619-7629."
+\[[pdf](http://shimyook.github.io/files/JCL2020.pdf)\]
