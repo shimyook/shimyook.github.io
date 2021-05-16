@@ -3,3 +3,5 @@ papertitle: "Yook, S., D. W. J. Thompson, S. Solomon, and S.-Y. Kim, 2020: The k
 paperurl: 'http://shimyook.github.io/files/JCL2020.pdf'
 ---
 [pdf](http://shimyook.github.io/files/JCL2020.pdf)
+[pdf](http://shimyook.github.io/files/JCL2020.pdf)
+[pdf](http://shimyook.github.io/files/JCL2020.pdf)
