@@ -3,7 +3,7 @@ permalink: /presentations/
 title: "Presentations"
 author_profile: true
 redirect_from: 
-  - /presentation.html
+  - /presentations.html
 ---
 
 ## 2021
