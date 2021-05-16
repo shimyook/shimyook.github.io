@@ -17,12 +17,11 @@ Education
 
 Work experience
 ======
-* 2012-2014: Sergeant
-  * Republic of Korea Air Force
+* 2012.07-2014.07: Served and discharged from Republic of Korea Air Force, Sergeant
   
 Skills
 ======
-* Analysing large datasets in various programming languages (Python, Fortran, NCL etc.)
+* Analyzing large datasets in various programming languages (Python, Fortran, NCL etc.)
 * Running various configurations of NCAR CESM
   * RCE/Aquaplanet
   * AMIP/Slab-Ocean
