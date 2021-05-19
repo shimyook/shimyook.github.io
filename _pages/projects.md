@@ -18,4 +18,4 @@ author_profile: true
 
 ## Atmospheric Persistence
 ### <span style="color:gray">Collaborators: Prof. Dave Thompson, Colorado State University </span>
-* We investigate the physcial mechanism that accounts for persistence of atmospheric anomalies.
+* We investigate the physcial mechanism that accounts for persistence of atmospheric temperature anomalies.
