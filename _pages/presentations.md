@@ -4,8 +4,8 @@ title: "Presentations"
 author_profile: true
 ---
 ### Planned
-* [oral] International workshop for mid-latitude air-sea interaction
-* NCAR CESM WORKSHOP
+* [oral] 2021 International Workshop for Mid-Latitude Air-Sea Interaction
+* [oral] 2021 NCAR CESM WORKSHOP
 
 ## 2021
 
