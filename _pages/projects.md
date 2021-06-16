@@ -1,6 +1,6 @@
 ---
 title: "Current Research Projects"
-permalink: /projects22/
+permalink: /projects/
 author_profile: true
 ---
 
