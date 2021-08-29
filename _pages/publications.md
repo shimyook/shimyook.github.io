@@ -9,6 +9,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ### <span style="color:red">Chemistry-Climate Interactions</span>
 * Yook, S., Thompson, D. W. J., & Solomon, S.
+### <span style="color:red">Air-Sea Interactions</span>
+* Yook, S., Thompson, D. W. J., & Solomon, S.
 ### <span style="color:blue">Air-Sea Interactions</span>
 * Yook, S., Thompson, D. W. J., Sun, L., & Patrizio, C. R. (2021). The atmospheric response to western North Pacific sea-surface temperature anomalies. J. Climate, in review.
 
