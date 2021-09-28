@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Thompson, D. W. J., & Solomon, S. (2021). PNAS, in review.
+* **Yook, S.**, Thompson, D. W. J., & Solomon, S. (2021). On the influence of wildfire smoke on the large-scale atmospheric circulation. PNAS, in review.
 ### <span style="color:blue">Air-Sea Interactions</span>
 * **Yook, S.**, Thompson, D. W. J., Sun, L., & Patrizio, C. R. (2021). The atmospheric response to western North Pacific sea-surface temperature anomalies. J. Climate, in review.
 
@@ -18,5 +18,5 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2020
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Thompson, D. W. J., Solomon, S., & Kim, S.-Y. (2020). The Key Role of Coupled Chemistry–Climate Interactions in Tropical Stratospheric Temperature Variability. Journal of Climate, 33(17), 7619-7629.
+* **Yook, S.**, Thompson, D. W. J., Solomon, S., & Kim, S.-Y. (2020). The Key Role of Coupled Chemistry–Climate Interactions in Tropical Stratospheric Temperature Variability. J. Climate, 33(17), 7619-7629.
 \[[pdf](http://shimyook.github.io/files/JCL2020.pdf)\]
