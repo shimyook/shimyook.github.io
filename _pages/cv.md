@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric Science, Colorado State University, 2018-present
-* Dissertation Advisor: Prof. David W.J. Thompson
-* M.S. in Earth and Environmental Sciences, Seoul National University, 2018 (Advisor: Prof. Wookap Choi)
+* Ph.D in Atmospheric Science, Colorado State University, 2018-present (Dissertation Advisor: Prof. David W.J. Thompson)
+* M.S. in Earth and Environmental Sciences, Seoul National University, 2018 (Thesis Advisor: Prof. Wookap Choi)
 * B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2016
 
 Work experience
