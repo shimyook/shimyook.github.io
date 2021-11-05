@@ -4,6 +4,7 @@ title: "Presentations"
 author_profile: true
 ---
 ### Planned
+* [oral] Yook, S., Thompson, D. W. J., and Solomon, S. (2022, January) On the Influence of Wildfire Smoke Upon the Large-Scale Atmospheric Circulation, 2022 AMS
 
 ## 2021
 * [oral] Yook, S., Thompson, D. W. J., Sun, L., and Patrizio, C. R. (2021, June) Interpretation of North Pacific atmosphere-ocean interactions, NCAR CESM WORKSHOP - CVCWG working group.
