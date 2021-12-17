@@ -9,9 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Thompson, D. W. J., & Solomon, S. (2021). On the influence of wildfire smoke on the large-scale atmospheric circulation. To be submitted.
+* **Yook, S.**, Thompson, D. W. J., & Solomon, S. (2022). . To be submitted.
 ### <span style="color:blue">Air-Sea Interactions</span>
-* **Yook, S.**, Thompson, D. W. J., Sun, L., & Patrizio, C. R. (2021). The atmospheric response to western North Pacific sea-surface temperature anomalies. J. Climate, in review.
+* **Yook, S.**, Thompson, D. W. J., Sun, L., & Patrizio, C. R. (2022). The atmospheric response to western North Pacific sea-surface temperature anomalies. J. Climate, in review.
 
 ## 2021
 * [Korean journal] Choi, W., & **Yook, S.** (2021) Relationship between Arctic Sea Ice in Autumn and Subsequent July Air Temperature over East Asia and the Western North Pacific, APJAS, 1-9.
