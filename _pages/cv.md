@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric Science, Colorado State University, 2018-present (Advisor: Prof. David W.J. Thompson)
-* M.S. in Earth and Environmental Sciences, Seoul National University, 2018 (Advisor: Prof. Wookap Choi)
-* B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2016
+* Ph.D in Atmospheric Science, Colorado State University, 2018.08-present (Advisor: Prof. David W.J. Thompson)
+* M.S. in Earth and Environmental Sciences, Seoul National University, 2016.09-2018.08 (Advisor: Prof. Wookap Choi)
+* B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2011.03-2016.09 (Served R.O.K Air Force from 2012.07 to 2014.07)
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Skills
 
 Awards
 ======
-* NCAR Core Hour Grant (2.35 million core-hours), 2019-present
+* NCAR Core Hour Grant (2.75 million core-hours), 2019-present
 * 2020 AMS Student Travel Grants (partial), 2020                                             
 * CSU CIRA Programs of Research and Scholarly Excellence (PRSE) Award, 2019
 
