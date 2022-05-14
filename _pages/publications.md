@@ -14,7 +14,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 * **Yook, S.**, Thompson, D. W. J., Sun, L., & Patrizio, C. R. (2022). The atmospheric response to western North Pacific sea-surface temperature anomalies. J. Climate, in press.
 
 ## 2021
-### <span style="color:blue">Air-Sea Interactions</span>
 * [Korean journal] Choi, W., & **Yook, S.** (2021) Relationship between Arctic Sea Ice in Autumn and Subsequent July Air Temperature over East Asia and the Western North Pacific, APJAS, 1-9.
 
 ## 2020
