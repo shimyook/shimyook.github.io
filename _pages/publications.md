@@ -7,7 +7,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## In review / submitted
 
-
+## 2022
 ### <span style="color:red">Chemistry-Climate Interactions</span>
 * **Yook, S.**, Thompson, D. W. J., & Solomon, S. (2022). Climate impacts and potential drivers of the unprecedented Antarctic ozone holes of 2020 and 2021. Geophys. Res. Lett., in press.
 ### <span style="color:blue">Air-Sea Interactions</span>
