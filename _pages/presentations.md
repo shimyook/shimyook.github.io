@@ -4,9 +4,9 @@ title: "Presentations"
 author_profile: true
 ---
 ### Planned
-* [poster] Yook, S., Thompson, D. W. J., Sun, L., and Patrizio, C. R. (2022, May) The simulated atmospheric response to western North Pacific sea-surface temperature anomalies, Stormtracks2022 : Midlatitude storm-tracks workshop, 2022
 
 ## 2022
+* [oral] Yook, S., Thompson, D. W. J., Sun, L., and Patrizio, C. R. (2022, May) The simulated atmospheric response to western North Pacific sea-surface temperature anomalies, Stormtracks2022 : Midlatitude storm-tracks workshop, 2022
 * [oral] Yook, S., Thompson, D. W. J., and Solomon, S. (2022, January) On the Influence of Wildfire Smoke Upon the Large-Scale Atmospheric Circulation, 2022 AMS
 
 ## 2021
