@@ -23,9 +23,14 @@ Skills
 ======
 * Analyzing large datasets in various programming languages (Python, Fortran, NCL etc.)
 * Running various configurations of NCAR CESM
+  * CAM5/CAM6/WACCM
   * RCE/Aquaplanet
   * AMIP/Slab-Ocean
   * varying SSTs / orography / aerosols boundary conditions and etc.
+* Running various configurations of GFDL ISCA framework
+  * Aquaplanet simulations run on AM2/RRTMG, AM2/Gray
+* Running various single column models
+  * SCAM, CLIMLAB, KONRAD
 
 Awards
 ======
