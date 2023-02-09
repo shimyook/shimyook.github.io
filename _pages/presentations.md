@@ -6,7 +6,7 @@ author_profile: true
 ### Planned
 
 ## 2023
-* [Invited talk] Yook, S. (2023, February) The Role of Earth System Interactions in Large-Scale Climate Variability, Johns Hopkins University
+* [Invited talk] Yook, S. (2023, February) The Role of Earth System Interactions in Large-Scale Climate Variability, Johns Hopkins University Benton Fellowship Meeting
 * [poster] Yook, S., Thompson, D. W. J., and Solomon, S. (2023, January) The Influence of Recent Wildfire Smoke and COVID-19 Emissions on the Large-Scale Atmospheric Circulation, 103rd American Meteorological Society Annual Meeting
 
 ## 2022
