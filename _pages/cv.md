@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Atmospheric Science, Colorado State University, 2018.08-present (Advisor: Prof. David W.J. Thompson)
-* M.S. in Earth and Environmental Sciences, Seoul National University, 2016.09-2018.08 (Advisor: Prof. Wookap Choi)
-* B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2011.03-2016.09 (Served R.O.K Air Force from 2012.07 to 2014.07)
-
 Work experience
 ======
+* 2023.08-: Postdoc at MIT (Advisor: Susan Solomon)
+* 2023.06-2023.08: Postdoc at CSU (Advisor: Dave Thompson)
 * 2012.07-2014.07: Served and discharged from Republic of Korea Air Force, Sergeant
+
+Education
+======
+* Ph.D in Atmospheric Science, Colorado State University, 2018.08-2023.05 (Advisor: Prof. David W.J. Thompson)
+* M.S. in Earth and Environmental Sciences, Seoul National University, 2016.09-2018.08 (Advisor: Prof. Wookap Choi)
+* B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2011.03-2016.09 (Served R.O.K Air Force from 2012.07 to 2014.07)
   
 Skills
 ======
