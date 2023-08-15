@@ -12,4 +12,4 @@ I currently work as a postdotroal researcher at the Department of Atmospheric Sc
 
 For more details on my work see my publications.
 
-For any questions feel free to contact me on simchan.yook@colostate.edu
+For any questions feel free to contact me on syook@mit.edu
