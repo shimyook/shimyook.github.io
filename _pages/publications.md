@@ -7,7 +7,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## In review / submitted / In prep.
 ### <span style="color:green">Radiation-Climate Interactions</span>
-* **Yook, S.**, & Thompson, D. W. J. (in prep.).  On the changes in temperature variability under climate change.
+* **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change.
 
 ## 2022
 ### <span style="color:red">Chemistry-Climate Interactions</span>
