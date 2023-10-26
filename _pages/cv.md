@@ -24,11 +24,10 @@ Education
 Skills
 ======
 * Analyzing large datasets in various programming languages (Python, Fortran, NCL etc.)
-* Running various configurations of NCAR CESM
-  * CAM5/CAM6/WACCM
+* Running various configurations and developing physics scheme in CESM
+  * CAM/WACCM(SD,SC,FR)
   * RCE/Aquaplanet
-  * AMIP/Slab-Ocean
-  * varying SSTs / orography / aerosols boundary conditions and etc.
+  * AMIP/Slab-Ocean/Coupled-Ocean
 * Running various configurations of GFDL ISCA framework
   * Aquaplanet simulations run on AM2/RRTMG, AM2/Gray
 * Running various single column models
@@ -36,6 +35,7 @@ Skills
 
 Awards
 ======
+* 2023 DynVar meeting Travel Grants (full), 2023
 * NCAR Core Hour Grant (2.75 million core-hours), 2019-present
 * 2020 AMS Student Travel Grants (partial), 2020                                             
 * CSU CIRA Programs of Research and Scholarly Excellence (PRSE) Award, 2019
