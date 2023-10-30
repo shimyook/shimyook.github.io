@@ -25,7 +25,8 @@ Skills
 ======
 * Analyzing large datasets in various programming languages (Python, Fortran, NCL etc.)
 * Running various configurations and developing physics scheme in CESM
-  * CAM/WACCM(SD,SC,FR)
+  * FR,SC,SD version of WACCM
+  * Water vapor locking experiments 
   * RCE/Aquaplanet
   * AMIP/Slab-Ocean/Coupled-Ocean
 * Running various configurations of GFDL ISCA framework
