@@ -5,6 +5,10 @@ author_profile: true
 ---
 ### Planned
 
+#2024
+* [Invited talk] Yook, S. (2024, August) Disentangling the Impact of 2022 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Climate, Circulation, and Chemistry, GFDL Lunchtime seminar
+* [poster] Yook, S., Solomon, S., Thompson, D. W. J., Wang, X., & Randel, W. (2024, January) The Impact of 2020 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Circulation and Climate, 104th American Meteorological Society Annual Meeting
+
 ## 2023
 * [oral] Yook, S., and Thompson, D. W. J., (2023, October) A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change, 2023 DynVar/SNAP workshop
 * [Invited talk] Yook, S. (2023, February) The Role of Earth System Interactions in Large-Scale Climate Variability, Johns Hopkins University
