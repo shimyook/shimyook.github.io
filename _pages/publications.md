@@ -8,7 +8,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## In review / submitted / In prep.
 ### <span style="color:green">Radiation-Climate Interactions</span>
 * **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change.
+### <span style="color:red">Chemistry-Climate Interactions</span>
 * **Yook, S.**, Solomon, S., Weimer, M., Kinnison, D., Garcia, R. & Stone, K. (submitted). Implementation of sub-grid scale temperature perturbations induced by non-orographic gravity waves in WACCM6
+* **Yook, S.**, Solomon, & Wang, X. (submitted). The Impact of 2022 Hunga Tonga-Hunga Ha’apai (Hunga) Eruption on Stratospheric Circulation and Climate
 
 ## 2022
 ### <span style="color:red">Chemistry-Climate Interactions</span>
