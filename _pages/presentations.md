@@ -6,6 +6,8 @@ author_profile: true
 ### Planned
 
 ## 2024
+*	[poster] Yook, S., Solomon, S., Weimer, M., Kinnison, D., Garcia, R, & Stone, K. (2024, December) Implementation of sub-grid scale temperature perturbations induced by non-orographic gravity waves in WACCM6, AGU Fall Meeting.
+*	[oral] Yook, S. (2024, November) The Role of Coupled Ozone-Climate Interactions in Stratospheric Temperature Variability, QUOCA November Workshop
 * [Invited talk] Yook, S. (2024, August) Disentangling the Impact of 2022 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Climate, Circulation, and Chemistry, GFDL Lunchtime seminar
 * [poster] Yook, S., Solomon, S., Thompson, D. W. J., Wang, X., & Randel, W. (2024, January) The Impact of 2020 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Circulation and Climate, 104th American Meteorological Society Annual Meeting
 
