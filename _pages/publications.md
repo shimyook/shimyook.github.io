@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2025
 ### <span style="color:red">Chemistry-Climate Interactions</span>
 * **Yook, S.**, Solomon, S., Weimer, M., Kinnison, D., Garcia, R. & Stone, K. (accepted). Implementation of sub-grid scale temperature perturbations induced by non-orographic gravity waves in WACCM6
-* **Yook, S.**, Solomon, & Wang, X. (2025). The Impact of 2022 Hunga Tonga-Hunga Ha’apai (Hunga) Eruption on Stratospheric Circulation and Climate, J. Geophys. Res. Atmos., \https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042943 \[[pdf](http://shimyook.github.io/files/JGR2025.pdf)\]
+* **Yook, S.**, Solomon, & Wang, X. (2025). The Impact of 2022 Hunga Tonga-Hunga Ha’apai (Hunga) Eruption on Stratospheric Circulation and Climate, J. Geophys. Res. Atmos., [\(https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042943)\] \[[pdf](http://shimyook.github.io/files/JGR2025.pdf)\]
 
 ## 2022
 ### <span style="color:red">Chemistry-Climate Interactions</span>
