@@ -36,10 +36,15 @@ Skills
 
 Awards
 ======
-* 2023 DynVar meeting Travel Grants (full), 2023
 * NCAR Core Hour Grant (experience in multiple allocation projects utilizing over 20 million core hours), 2019-present
-* 2020 AMS Student Travel Grants (partial), 2020                                             
 * CSU CIRA Programs of Research and Scholarly Excellence (PRSE) Award, 2019
+
+Travel Grants
+======
+* 2025 Digital Earths Global Hackathon, NSF NCAR (full)
+* 2023 NCAR ASP Summer Colloquium (full)
+* 2023 DynVar meeting Travel Grants (full)
+* 2020 AMS Student Travel Grants (partial)                                             
 
 Publications
 ======
