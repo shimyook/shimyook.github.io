@@ -8,6 +8,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## In review / submitted / In prep.
 ### <span style="color:green">Radiation-Climate Interactions</span>
 * **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change.
+### <span style="color:red">Chemistry-Climate Interactions</span>
+* **Yook, S.**, Solomon, S., & Bardeen, C. The Role of Halogen Chemistry in Global Ozone Depletion Following Regional Nuclear Conflict, In prep.
+* **Yook, S.**, & Solomon, S. The impact of Stratospheric Ozone on Stratospheric Temperature During the 2019 Southern Hemisphere Minor Warming Event, In prep.
  
 ## 2025
 ### <span style="color:red">Chemistry-Climate Interactions</span>
@@ -29,3 +32,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ### <span style="color:red">Chemistry-Climate Interactions</span>
 * **Yook, S.**, Thompson, D. W. J., Solomon, S., & Kim, S.-Y. (2020). The Key Role of Coupled Chemistry–Climate Interactions in Tropical Stratospheric Temperature Variability. J. Climate, 33(17), 7619-7629.
 \[[pdf](http://shimyook.github.io/files/JCL2020.pdf)\]
+
+
+## Other Publications
+* Worked as a contributor to, APARC Special Hunga-Tonga Impacts Report, Chapter 4 Hunga Effects on Stratospheric Temperatures and Dynamics, In prep.
+
+* Scientific Figures and Data contribution to, Wallace, J. M., Battisti, D. S., Thompson, D. W., & Hartmann, D. L. (2023). The Atmospheric General Circulation. Cambridge University Press.
