@@ -29,8 +29,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2020
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Thompson, D. W. J., Solomon, S., & Kim, S.-Y. (2020). The Key Role of Coupled Chemistry–Climate Interactions in Tropical Stratospheric Temperature Variability. J. Climate, 33(17), 7619-7629.
-\[[pdf](http://shimyook.github.io/files/JCL2020.pdf)\]
+* **Yook, S.**, Thompson, D. W. J., Solomon, S., & Kim, S.-Y. (2020). The Key Role of Coupled Chemistry–Climate Interactions in Tropical Stratospheric Temperature Variability. J. Climate, 33(17), 7619-7629. <u><a href="https://doi.org/10.1175/JCLI-D-20-0071.1">https://doi.org/10.1175/JCLI-D-20-0071.1</a></u> \[[pdf](http://shimyook.github.io/files/JCL2020.pdf)\]
+
 
 
 ## Other Publications
