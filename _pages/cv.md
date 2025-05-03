@@ -13,7 +13,6 @@ Work experience
 ======
 * 2023.08-: Postdoc at Massachusetts Institute of Technology (Advisor: Susan Solomon)
 * 2023.06-2023.08: Postdoc at Colorado State University (Advisor: Dave Thompson)
-* 2012.07-2014.07: Served and discharged from Republic of Korea Air Force, Sergeant
 
 Education
 ======
