@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ### <span style="color:green">Radiation-Climate Interactions</span>
 * **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change.
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Solomon, S., & Bardeen, C. The Role of Halogen Chemistry in Global Ozone Depletion Following Regional Nuclear Conflict, In prep.
+* **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (submitted). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict, In prep.
 * **Yook, S.**, & Solomon, S. The impact of Stratospheric Ozone on Stratospheric Temperature During the 2019 Southern Hemisphere Minor Warming Event, In prep.
  
 ## 2025
