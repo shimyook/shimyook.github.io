@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### Planned
 
-##2025
+## 2025
 *	[oral] Yook, S., and Solomon, S. (2025, May) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, 2025 CESM Workshop
 *	[oral] Yook, S., and Solomon, S. (2025, April) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, Stockholm University Department of Meteorology
 *	[poster] Yook, S., Solomon, S., Thompson, D. W. J., Wang, X., & Randel, W. (2025, April) The Impact of 2020 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Circulation and Climate, The EGU General Assembly 2025
