@@ -4,9 +4,12 @@ title: "Presentations"
 author_profile: true
 ---
 ### Planned
-*	[oral] Yook, S., and Solomon, S. (2025, April) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, Stockholm University Department of Meteorology, planned.
-*	[poster] Yook, S., Solomon, S., Thompson, D. W. J., Wang, X., & Randel, W. (2025, April) The Impact of 2020 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Circulation and Climate, The EGU General Assembly 2025, planned.
-*	[oral] Yook, S., and Solomon, S. (2025, February) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, Future of Life project meeting.
+
+##2025
+*	[oral] Yook, S., and Solomon, S. (2025, May) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, 2025 CESM Workshop
+*	[oral] Yook, S., and Solomon, S. (2025, April) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, Stockholm University Department of Meteorology
+*	[poster] Yook, S., Solomon, S., Thompson, D. W. J., Wang, X., & Randel, W. (2025, April) The Impact of 2020 Hunga Tonga-Hunga Ha’apai (HTHH) Eruption on the Stratospheric Circulation and Climate, The EGU General Assembly 2025
+*	[oral] Yook, S., and Solomon, S. (2025, February) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, Future of Life project meeting
 
 ## 2024
 *	[poster] Yook, S., Solomon, S., Weimer, M., Kinnison, D., Garcia, R, & Stone, K. (2024, December) Implementation of sub-grid scale temperature perturbations induced by non-orographic gravity waves in WACCM6, AGU Fall Meeting.
