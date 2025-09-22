@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ### <span style="color:red">Chemistry-Climate Interactions</span>
 * **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (submitted). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict.
 * **Yook, S.**, & Solomon, S. The impact of Stratospheric Ozone on Stratospheric Temperature During the 2019 Southern Hemisphere Minor Warming Event, In prep.
-* Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., Yook, S., Yang. C., Zhuo, Z., Solomon, (submitted) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Gephys. Res. Atmos.
+* Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., Solomon, (submitted) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Gephys. Res. Atmos.
  
 ## 2025
 ### <span style="color:red">Chemistry-Climate Interactions</span>
