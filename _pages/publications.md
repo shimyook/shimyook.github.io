@@ -7,9 +7,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## In review / submitted
 ### <span style="color:green">Radiation-Climate Interactions</span>
-* **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
+* **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (submitted). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict. \[[pdf](http://shimyook.github.io/files/EF2025.pdf)\]
+* **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (submitted). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict., Earth's Future \[[pdf](http://shimyook.github.io/files/EF2025.pdf)\]
 * Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., (submitted) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Gephys. Res. Atmos.
  
 ## 2025
