@@ -26,7 +26,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2021
 * Choi, W., & **Yook, S.** (2021) Relationship between Arctic Sea Ice in Autumn and Subsequent July Air Temperature over East Asia and the Western North Pacific, APJAS, 1-9.
-\[[pdf](http://shimyook.github.io/files/APJAS2020.pdf)\]
+\[[pdf](http://shimyook.github.io/files/ChoiYook_2021APJAS.pdf)\]
 
 ## 2020
 ### <span style="color:red">Chemistry-Climate Interactions</span>
