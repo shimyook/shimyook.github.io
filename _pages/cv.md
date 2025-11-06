@@ -40,6 +40,7 @@ Awards
 
 Travel Grants
 ======
+* 2025 CESM-Workshop (full)
 * 2025 DCMIP-2025 (full)
 * 2025 Digital Earths Global Hackathon, NSF NCAR (full)
 * 2023 NCAR ASP Summer Colloquium (full)
