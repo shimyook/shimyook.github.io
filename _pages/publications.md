@@ -6,8 +6,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=mvtir2cAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ## Manuscripts in final preparation for submission
-Yook, S., Kane Stone, Joonsuk M. Kang, & Jaeyoung Hwang., Transient Responses of Northern Hemisphere Wintertime Circulation to Stratospheric Soot Injection. Geophys. Res. Lett.
-In review
+Yook, S., Stone, K., Kang, J. M., & Hwang, J., Transient Responses of Northern Hemisphere Wintertime Circulation to Stratospheric Soot Injection, Geophys. Res. Lett.
 ## In review
 ### <span style="color:green">Radiation-Climate Interactions</span>
 * **Yook, S.**, & Thompson, D. W. J. (in review).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
