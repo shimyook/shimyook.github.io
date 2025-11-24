@@ -5,15 +5,18 @@ author_profile: true
 ---
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=mvtir2cAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
-## In review / submitted
+## Manuscripts in final preparation for submission
+Yook, S., Kane Stone, Joonsuk M. Kang, & Jaeyoung Hwang., Transient Responses of Northern Hemisphere Wintertime Circulation to Stratospheric Soot Injection. Geophys. Res. Lett.
+In review
+## In review
 ### <span style="color:green">Radiation-Climate Interactions</span>
-* **Yook, S.**, & Thompson, D. W. J. (submitted).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
+* **Yook, S.**, & Thompson, D. W. J. (in review).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
 ### <span style="color:red">Chemistry-Climate Interactions</span>
-* **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (submitted). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict., Earth's Future \[[pdf](http://shimyook.github.io/files/EF2025.pdf)\]
-* Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., (submitted) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Gephys. Res. Atmos.
+* Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., (in review) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Gephys. Res. Atmos.
  
 ## 2025
 ### <span style="color:red">Chemistry-Climate Interactions</span>
+* **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (accepted). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict., Earth's Future \[[pdf](http://shimyook.github.io/files/EF2025.pdf)\]
 * **Yook, S.**, Solomon, S., Weimer, M., Kinnison, D., Garcia, R. & Stone, K. Implementation of sub-grid scale temperature perturbations induced by non-orographic gravity waves in WACCM6, J. Adv. Model. <u><a href="http://dx.doi.org/10.1029/2024MS004625">http://dx.doi.org/10.1029/2024MS004625</a></u> \[[pdf](http://shimyook.github.io/files/JAMES2025.pdf)\]
 * **Yook, S.**, Solomon, & Wang, X. (2025). The Impact of 2022 Hunga Tonga-Hunga Ha’apai (Hunga) Eruption on Stratospheric Circulation and Climate, J. Geophys. Res. Atmos., <u><a href="http://dx.doi.org/10.1029/2024JD042943">http://dx.doi.org/10.1029/2024JD042943</a></u> \[[pdf](http://shimyook.github.io/files/JGR2025.pdf)\]
 
