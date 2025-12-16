@@ -6,7 +6,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=mvtir2cAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ## Manuscripts in final preparation for submission
-Yook, S., Stone, K., Kang, J. M., & Hwang, J., Transient Responses of Northern Hemisphere Wintertime Circulation to Stratospheric Soot Injection, Geophys. Res. Lett.
+Yook, S., Stone, K., Kang, J. M., Hwang, J., Zhuo, Z., &, Pausata, S. R. F., Transient Responses of Northern Hemisphere Wintertime Circulation to Stratospheric Soot Injection, Geophys. Res. Lett.
 \[[pdf](http://shimyook.github.io/files/GRL2025_draft.pdf)\]
 
 ## In review
