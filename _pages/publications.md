@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 \[[pdf](http://shimyook.github.io/files/GRL2025_draft.pdf)\]
 * **Yook, S.**, & Thompson, D. W. J. (in review).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
 * Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., (in review) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Gephys. Res. Atmos.
-* Hwang, J., Deng, Y., **Yook, S.**, and You, Z., Subseasonal Prediction of the North Pacific Blocking in AI-based Weather Models, which has been submitted for possible publication in Journal of Geophysical Research - Atmospheres.
+* Hwang, J., Deng, Y., **Yook, S.**, and You, Z., Subseasonal Prediction of the North Pacific Blocking in AI-based Weather Models, J. Gephys. Res. Atmos.
 
 
 
