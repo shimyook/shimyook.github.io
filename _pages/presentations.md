@@ -4,6 +4,11 @@ title: "Presentations"
 author_profile: true
 ---
 ### Planned
+*	[oral] Yook, S., and Solomon, S. (2026, March) Potential Impacts of a Regional Nuclear Conflict on Climate, Flordia State University Meteorology Seminar
+
+## 2026
+[oral] Yook, S., Solomon, S., and Stone, K. (2026, Feb) Transient Responses of Northern Hemisphere Wintertime Circulation to Stratospheric Soot Injection, 2026 CESM Working Group Meeting
+
 
 ## 2025
 *	[oral] Yook, S., and Solomon, S. (2025, May) Nuclear War In a World Brimming With Plastic: Impacts of Cl, Br, and Organics on the Ozone Layer, 2025 CESM Workshop
