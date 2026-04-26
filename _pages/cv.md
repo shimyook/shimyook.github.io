@@ -35,7 +35,8 @@ Skills
 
 Awards
 ======
-* NCAR Core Hour Grant (experience in multiple allocation projects utilizing over 20 million core hours), 2019-present
+* CIRES Postdoctoral Visiting Fellowships
+* NCAR Core Hour Grant (experience in multiple allocation projects utilizing over 30 million core hours), 2019-present
 * CSU CIRA Programs of Research and Scholarly Excellence (PRSE) Award, 2019
 
 Travel Grants
