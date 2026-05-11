@@ -12,8 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 * Hwang, J., Deng, Y., **Yook, S.**, and You, Z., Subseasonal Prediction of the North Pacific Blocking in AI-based Weather Models, J. Gephys. Res. Atmos.
 
 ## 2026
-* **Yook, S.**, Stone, K., Kang, J. M., Hwang, J., Zhuo, Z., &, Pausata, S. R. F., Wintertime Stratospheric Circulation Response to Smoke Injection from a Regional Nuclear Conflict, Geophys. Res. Lett.
-\[[pdf](http://shimyook.github.io/files/GRL2025_draft.pdf)\]
+* **Yook, S.**, Stone, K., Kang, J. M., Hwang, J., Zhuo, Z., &, Pausata, S. R. F., Northern Hemisphere Wintertime Stratospheric Circulation Response to Smoke Injection from a Regional Nuclear Conflict, Geophys. Res. Lett. \[[pdf](http://shimyook.github.io/files/GRL2025_draft.pdf)\]
 
 ## 2025
 * **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (2025). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict., Earth's Future. <u><a href="https://doi.org/10.1029/2025EF006866">https://doi.org/10.1029/2025EF006866</a></u> \[[pdf](http://shimyook.github.io/files/EF2025b.pdf)\]
