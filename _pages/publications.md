@@ -34,6 +34,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 ## Other Publications
-* Worked as a contributor to, APARC Special Hunga-Tonga Impacts Report, Chapter 4 Hunga Effects on Stratospheric Temperatures and Dynamics.
+* Worked as a contributor to, APARC 2025: The Hunga Volcanic Eruption Atmospheric Impacts Report, Chapter 4 Hunga Effects on Stratospheric Temperatures and Dynamics, Zhu, Y., G. Mann, P.A. Newman, and W. Randel (eds.), APARC Report No. 11, WCRP-10/2025, doi:10.34734/FZJ-2025-05237
 
 * Scientific Figures and Data contribution to, Wallace, J. M., Battisti, D. S., Thompson, D. W., & Hartmann, D. L. (2023). The Atmospheric General Circulation. Cambridge University Press.
