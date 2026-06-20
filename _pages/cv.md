@@ -19,19 +19,6 @@ Education
 * Ph.D in Atmospheric Science, Colorado State University, 2018.08-2023.05 (Advisor: David W.J. Thompson)
 * M.S. in Earth and Environmental Sciences, Seoul National University, 2016.09-2018.08
 * B.S. in (major) Earth and Environmental Sciences and (minor) Physics, Seoul National University, 2011.03-2016.09 (Served R.O.K Air Force from 2012.07 to 2014.07)
-  
-Skills
-======
-* Analyzing large datasets in various programming languages (Python, Fortran, NCL etc.)
-* Running various configurations and developing physics scheme in CESM
-  * FR,SC,SD version of WACCM
-  * Water vapor locking experiments 
-  * RCE/Aquaplanet
-  * AMIP/Slab-Ocean/Coupled-Ocean
-* Running various configurations of GFDL ISCA framework
-  * Aquaplanet simulations run on AM2/RRTMG, AM2/Gray
-* Running various single column models
-  * SCAM, CLIMLAB, KONRAD
 
 Awards
 ======
