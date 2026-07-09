@@ -22,7 +22,7 @@ Education
 
 Awards
 ======
-* CIRES Postdoctoral Visiting Fellowships, 2026
+* CIRES Postdoctoral Visiting Fellowship, 2026
 * NCAR Core Hour Grant (experience in multiple allocation projects utilizing over 30 million core hours), 2019-present
 * CSU CIRA Programs of Research and Scholarly Excellence (PRSE) Award, 2019
 
