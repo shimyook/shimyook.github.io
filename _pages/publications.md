@@ -8,13 +8,14 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## In review
 * **Yook, S.**, & Thompson, D. W. J. (in review).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
-* **Yook, S.**, & Solomon, S. (submitted).  Disruption of Ozone Recovery by Halogen Emissions from 1 a Regional Nuclear Conflict. J. Geophys. Res. Atmos. \[[pdf](http://shimyook.github.io/files/JGR2026.pdf)\]
-* Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., (in review) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Geophys. Res. Atmos.
-* Xu, S., Xia, L., Robock, A., Bardeen, C., **Yook, S.**, Madronich, S., Setoguchi, S., Impacts of Nuclear War on Human Health from Changed Surface Ultraviolet Radiation, Earth's Future. 
+* **Yook, S.**, & Solomon, S. (submitted).  Disruption of Ozone Recovery by Halogen Emissions from a Regional Nuclear Conflict. J. Geophys. Res. Atmos. \[[pdf](http://shimyook.github.io/files/JGR2026.pdf)\]
+
 
 ## 2026
-* **Yook, S.**, Stone, K., Kang, J. M., Hwang, J., Zhuo, Z., &, Pausata, S. R. F., Northern Hemisphere Wintertime Stratospheric Circulation Response to Smoke Injection from a Regional Nuclear Conflict, Geophys. Res. Lett. <u><a href="https://doi.org/10.1029/2026GL122395">https://doi.org/10.1029/2026GL122395</a></u> \[[pdf](http://shimyook.github.io/files/GRL2026.pdf)\]
-* Hwang, J., Deng, Y., **Yook, S.**, and You, Z., Subseasonal Prediction of the North Pacific Blocking in AI-based Weather Models, J. Geophys. Res. Atmos. <u><a href="http://dx.doi.org/10.1029/2026JD046695">http://dx.doi.org/10.1029/2026JD046695</a></u>  \[[pdf](http://shimyook.github.io/files/Hwang2026JGR.pdf)\]
+* **Yook, S.**, Stone, K., Kang, J. M., Hwang, J., Zhuo, Z., &, Pausata, S. R. F., (2026) Northern Hemisphere Wintertime Stratospheric Circulation Response to Smoke Injection from a Regional Nuclear Conflict, Geophys. Res. Lett. <u><a href="https://doi.org/10.1029/2026GL122395">https://doi.org/10.1029/2026GL122395</a></u> \[[pdf](http://shimyook.github.io/files/GRL2026.pdf)\]
+* Hwang, J., Deng, Y., **Yook, S.**, and You, Z., (2026) Subseasonal Prediction of the North Pacific Blocking in AI-based Weather Models, J. Geophys. Res. Atmos. <u><a href="http://dx.doi.org/10.1029/2026JD046695">http://dx.doi.org/10.1029/2026JD046695</a></u>  \[[pdf](http://shimyook.github.io/files/Hwang2026JGR.pdf)\]
+* Wang, X., Yu., W., Randel, W., Garcia, R., Newman, P., Tilmes, S., Bednarz, E., Zhu, Y., Zhang, J., Harvey, V. L., **Yook, S.**, Yang. C., Zhuo, Z., (2026) Stratospheric Circulation in the Southern Hemisphere: links to tropical winds, ozone and the Hunga Eruption -Part 2: Evidence from a Global Chemistry-Climate Model, J. Geophys. Res. Atmos.
+* Xu, S., Xia, L., Robock, A., Bardeen, C., **Yook, S.**, Madronich, S., Setoguchi, S., (2026) Impacts of Nuclear War on Human Health from Changed Surface Ultraviolet Radiation, Earth's Future. 
 
 ## 2025
 * **Yook, S.**, Solomon, S., Bardeen, C., & Stone, K. (2025). Arctic Ozone Holes and Enhanced Mid-latitude Ozone Losses Due to Halogen Chemistry Following a Regional Nuclear Conflict., Earth's Future. <u><a href="https://doi.org/10.1029/2025EF006866">https://doi.org/10.1029/2025EF006866</a></u> \[[pdf](http://shimyook.github.io/files/EF2025b.pdf)\]
