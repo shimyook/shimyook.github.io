@@ -8,7 +8,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## In review
 * **Yook, S.**, & Thompson, D. W. J. (in review).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
-* **Yook, S.**, & Solomon, S. (submitted).  Disruption of Ozone Recovery by Halogen Emissions from a Regional Nuclear Conflict. J. Geophys. Res. Atmos. \[[pdf](http://shimyook.github.io/files/JGR2026.pdf)\]
+* **Yook, S.**, & Solomon, S. (in review).  Disruption of Ozone Recovery by Halogen Emissions from a Regional Nuclear Conflict. J. Geophys. Res. Atmos. \[[pdf](http://shimyook.github.io/files/JGR2026.pdf)\]
 
 
 ## 2026
