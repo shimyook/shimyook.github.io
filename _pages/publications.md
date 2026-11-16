@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## In review
 * **Yook, S.**, & Thompson, D. W. J. (in review).  A Thermodynamic Constraint on Tropical Tropospheric Temperature Variability Under Climate Change. J. Climate \[[pdf](http://shimyook.github.io/files/JC2025.pdf)\]
 * **Yook, S.**, & Solomon, S. (in review).  Disruption of Ozone Recovery by Halogen Emissions from a Regional Nuclear Conflict. J. Geophys. Res. Atmos. \[[pdf](http://shimyook.github.io/files/JGR2026.pdf)\]
-
+* Solomon, S., Scharf, A., Stone, K., Wang, P., **Yook, S.**, Adachi, M., Fujita, T., and Cullis, P. (in review). Six Decades of Ozonesonde Measurements Over Antarctica. Atmos. Chem. Phys.
 
 ## 2026
 * **Yook, S.**, Stone, K., Kang, J. M., Hwang, J., Zhuo, Z., &, Pausata, S. R. F., (2026) Northern Hemisphere Wintertime Stratospheric Circulation Response to Smoke Injection from a Regional Nuclear Conflict, Geophys. Res. Lett. <u><a href="https://doi.org/10.1029/2026GL122395">https://doi.org/10.1029/2026GL122395</a></u> \[[pdf](http://shimyook.github.io/files/GRL2026.pdf)\]
